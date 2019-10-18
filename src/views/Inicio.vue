@@ -44,7 +44,7 @@
                 <div id="productos">
                     <v-layout wrap row>
                         <v-layout wrap md12 ms12 xs12 id="cards">      
-                            <v-flex v-for="(fruto, index) in frutosInicio" :key="index" class="mb-5" min-width="300px" md3 sm4 xs12 px-2>
+                            <v-flex v-for="(fruto, index) in frutosInicio" :key="index" class="mb-5" min-width="300px" md3 sm4 xs12 px-10>
                                 
                                 <v-card class="mx-auto" width="250px" elevation="24">
                                     <v-img class="white--text" width="250px" height="160px" v-bind:src=" fruto.imagen" >

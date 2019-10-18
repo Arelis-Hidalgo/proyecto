@@ -5,7 +5,7 @@
             <v-flex md8 ms8 xs12>                
                 <Logo />
             </v-flex>
-            <v-flex md2 ms2 xs12>
+            <v-flex md2 ms4 xs4>
                 <Login />
             </v-flex>
             <v-flex md2 ms2 xs2 px-10 py-10>
