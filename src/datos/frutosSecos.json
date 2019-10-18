@@ -1,0 +1,333 @@
+{   
+    "frutoSecos":[
+        
+        {
+            "id":"1",
+            "name":"Almendras",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Grasas saludables",
+                "desc2":"Ricas en proteínas",
+                "desc3":"Vitamina E antioxidante"
+            }],
+            "imagen":"https://cdn.pixabay.com/photo/2018/07/08/08/43/almond-3523447_960_720.jpg"
+
+        },
+        {
+            "id":"2",
+            "name":"Almendras laminadas",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Calcio y otros minerales en abundancia",
+                "desc2":"Ricas en proteínas",
+                "desc3":"Vigorizante para los jóvenes y deportistas"
+            }
+            ],
+            "imagen":"https://www.nutrafeliz.cl/wp-content/uploads/2017/11/shutterstock_153877475-almendras-laminadas-kxk.jpg"
+
+        },
+        {
+            "id":"3",
+            "name":"Avellanas chilenas",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Buena fuente de calcio, fósforo y magnsio",
+                "desc2":"Alto en vitamina E",
+                "desc3":"Ricas en ácido oleico"
+            }
+            ],
+            "imagen":"https://www.nutrafeliz.cl/wp-content/uploads/2018/07/Avellanas-chilenas-tostadas-kxk.jpg"
+
+        },
+        {
+            "id":"4",
+            "name":"Banana Chips",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Propiedades medicinales",
+                "desc2":"Contiene vitamina A",
+                "desc3":"Vitaminas y minerales en abundancia"
+            }
+            ],
+            "imagen":"https://www.bulknationusa.com/wp-content/uploads/2018/02/480.jpg"
+
+        },
+        {
+            "id":"5",
+            "name":"Castañas de cajú",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"0% colesterol",
+                "desc2":"Tienen vitamina E y B",
+                "desc3":"Buena fuente de fibras"
+            }
+            ],
+            "imagen":"http://lamolienda.uy/wp-content/uploads/2017/11/CASTAÑAS-DE-CAJU-CRUDAS.png"
+
+        },
+        {
+            "id":"6",
+            "name":"Ciruelas c/carozo",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Previene la diabetes",
+                "desc2":"Baja de peso",
+                "desc3":"Laxante"
+            }
+            ],
+            "imagen":"https://frutosdelpaismelendez.cl/wp-content/uploads/2015/05/ciruelas.jpg"
+
+        },
+        {
+            "id":"7",
+            "name":"Ciruelas s/carozo",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Previene la diabetes",
+                "desc2":"Baja de peso",
+                "desc3":"Laxante"
+            }
+            ],
+            "imagen":"http://lamolienda.uy/wp-content/uploads/2017/12/CIRUELAS-SIN-CAROZO.jpg"
+
+        },
+        {
+            "id":"8",
+            "name":"Cranberry",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Combate y evita infecciones urinarias",
+                "desc2":"Gran fuente de vitamina C",
+                "desc3":"Aporta hierro"
+            }
+            ],
+            "imagen":"https://www.nutrafeliz.cl/wp-content/uploads/2017/12/sin-ti╠ütulo-25-Cranberries-kxk.jpg"
+
+        },
+        {
+            "id":"9",
+            "name":"Damasco turco",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Alto contenido de vitamina A",
+                "desc2":"Rico en distitnos minerales",
+                "desc3":"Elimina parásitos intestinales"
+            }
+            ],
+            "imagen":"https://dojiw2m9tvv09.cloudfront.net/4210/product/X_damascospa-ginaweb9930.jpg?560"
+
+        },
+        {
+            "id":"10",
+            "name":"Dátiles sin carozo",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Fuente saludable de carbohidratos",
+                "desc2":"Fibra dietética",
+                "desc3":"Combate la anemia"
+            }
+            ],
+            "imagen":"http://fsbernabeu.com/wp-content/uploads/2015/11/22web.jpg"
+
+        },
+        {
+            "id":"11",
+            "name":"Gojí",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Protege salud visual",
+                "desc2":"Mejoran salud de la piel",
+                "desc3":"Detoxifica el hígado"
+            }
+            ],
+            "imagen":"https://www.healthyloverschile.com/wp-content/uploads/2018/09/Goji_Berries.jpg"
+
+        },
+        {
+            "id":"12",
+            "name":"Granola endulzada c/miel",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Provoca saciedad",
+                "desc2":"Mejora digestion",
+                "desc3":"Contiene grasas saludables"
+            }
+            ],
+            "imagen":"https://dojiw2m9tvv09.cloudfront.net/4210/product/X_granolapa-ginaweb4833.jpg?560"
+
+        },
+        {
+            "id":"13",
+            "name":"Harina de almendras",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Aumentan los niveles de antioxidante en sangre",
+                "desc2":"Mejora el flujo sanguíneo",
+                "desc3":"Reduce presión arterial"
+            }
+            ],
+            "imagen":"https://www.nutrafeliz.cl/wp-content/uploads/2017/12/Faltantes1.jpg"
+
+        },
+        {
+            "id":"14",
+            "name":"Higos tiernizados",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Alto en fibras",
+                "desc2":"Proveen cantidades sanas de fibra dietética",
+                "desc3":"Regulan los niveles de azúcar en la sangre"
+            }
+            ],
+            "imagen":"https://cardamomonatural.com.ar/wp-content/uploads/2017/08/higos-web.jpg"
+
+        },
+        {
+            "id":"15",
+            "name":"Huesillos",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Fuente excelente de potasio, calcio y hierro",
+                "desc2":"Mejora la salud visual",
+                "desc3":"Mejora el estado de la piel"
+            }
+            ],
+            "imagen":"https://juani.cl/wp-content/uploads/2019/05/huesillos.jpg"
+
+        },
+        {
+            "id":"16",
+            "name":"Maní tostado con sal",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Reduce el colesterol",
+                "desc2":"Protege de enfermedades coronarias",
+                "desc3":"Previene accidentes cerebrovascular"
+            }
+            ],
+            "imagen":"https://www.regiomendoza.com/wp-content/uploads/2018/05/mani-con-sal.png"
+
+        },
+        {
+            "id":"17",
+            "name":"Maní tostado natural",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Reduce el colesterol",
+                "desc2":"Protege de enfermedades coronarias",
+                "desc3":"Previene accidentes cerebrovascular"
+            }
+            ],
+            "imagen":"https://cdn.shopify.com/s/files/1/2355/7183/products/mani-tostado-natural-250gr-2_800x.jpg?v=1527348538"
+
+        },
+        {
+            "id":"18",
+            "name":"Miel natural",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Potencial antibacteriano",
+                "desc2":"Potencial hidratante",
+                "desc3":"Favorece digestion"
+            }
+            ],
+            "imagen":"http://supermiomelo.com/megastore/images/stories/virtuemart/product/miel96.jpg"
+
+        },
+        {
+            "id":"19",
+            "name":"Mix(Pasa morena, Maní, Nueces, Almendras)",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Alto en vitaminas",
+                "desc2":"Rico en proteínas",
+                "desc3":"Grasas saludables"
+            }
+            ],
+            "imagen":"https://www.comercializadorasecos.cl/wp-content/uploads/2018/07/mixfrutosecos-600x600.png"
+
+        },
+        {
+            "id":"20",
+            "name":"Nueces mariposas",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Reduce el colesterol",
+                "desc2":"Contiene grasas saludables",
+                "desc3":"Gran aporte de valor energético"
+            }
+            ],
+            "imagen":"http://lamolienda.uy/wp-content/uploads/2017/10/NUEZ-PELADA-595x375.jpg"
+
+        },
+        {
+            "id":"21",
+            "name":"Pasas morenas",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Reduce riesgo de diabetes",
+                "desc2":"Disminuye riesgo de enfermedad cardiovascular",
+                "desc3":"Aumenta sensación de saciedad"
+            }
+            ],
+            "imagen":"http://tufrutaencasa.com/wp-content/uploads/2019/03/Pasas-morenas.jpg"
+
+        },
+        {
+            "id":"22",
+            "name":"Pasas rubias",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Aporta minerales a los huesos",
+                "desc2":"Reducen ansiedad",
+                "desc3":"Favorece cuidado dental"
+            }
+            ],
+            "imagen":"https://www.regiomendoza.com/wp-content/uploads/2018/05/pasas-rubias.jpg"
+
+        },
+        {
+            "id":"23",
+            "name":"Pistachos con y sin sal",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Ayuda con la pérdidad de peso",
+                "desc2":"Reduce azucares",
+                "desc3":"Mejora salud cardiovascular"
+            }
+            ],
+            "imagen":"https://www.nutrafeliz.cl/wp-content/uploads/2018/01/shutterstock_149492621-Pistachos-con-cáscara-kxk.jpg"
+
+        },
+        {
+            "id":"24",
+            "name":"Semilla calabaza",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Ayuda contra la osteoporosis",
+                "desc2":"Ayuda a personas con artritis",
+                "desc3":"Favorece salud de la próstata"
+            }
+            ],
+            "imagen":"http://hablemosdealimentos.com/wp-content/uploads/2018/08/semillas-de-calabaza-2.jpg"
+
+        },
+        {
+            "id":"25",
+            "name":"Semilla girasol",
+            "precio": "1",
+            "descripcion":[{
+                "desc1":"Mejora la fertilidad masculina",
+                "desc2":"Ayuda a controlar el peso",
+                "desc3":"Mejora la piel"
+            }
+            ],
+            "imagen":"https://http2.mlstatic.com/semilla-de-girasol-premium-limpia-grande-x-1-kilo-D_NQ_NP_875478-MLA31061365482_062019-Q.jpg"
+
+        }
+
+
+    ]
+    
+
+}
